@@ -19,6 +19,11 @@ class Todo {
         todotext: 'Example Todo',
         isDone: false,
       ),
+      Todo(
+        id: '3',
+        todotext: 'Have some fun',
+        isDone: false,
+      ),
     ];
   }
 }
